@@ -10,3 +10,5 @@ It can now run almost all medium and high configurations of light and shadown.Bu
 
 This software is not the official original package.I only participate in the modification.
 For more software details, go to [official website of the original author](https://github.com/PojavLauncherTeam/PojavLauncher)
+## Release
+Click here to [download](https://github.com/Vera-Firefly/PojavLauncher-Beta-Zink/releases)
