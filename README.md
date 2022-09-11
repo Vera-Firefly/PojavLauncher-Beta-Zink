@@ -1,6 +1,6 @@
 # PojavLauncher-Beta-Zink
 A Minecraft: Java Edition Launcher for Android based on Boardwalk.It adds the zink renderer, which was cut by the original author.
-[点击切换中文](/zh_CN.md)
+[点击切换中文](https://github.com/Vera-Firefly/PojavLauncher-Beta-Zink-CN/tree/main)
 ## Introduction
 The first is that it adds the zink renderer, which was removed by the original author. Now available for use.The virgl renderer also works fine.
 
